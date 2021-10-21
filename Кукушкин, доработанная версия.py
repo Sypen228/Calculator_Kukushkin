@@ -1,0 +1,18 @@
+import math
+a = int(input("Введите первое число"))
+b = int(input("Введите второе число"))
+с = a + b
+print (a + b)
+print (a - b)
+print (b - a)
+print (a * b)
+print (a / b)
+print (b / a)
+print (a ** b)
+print (b ** a)
+print (math.sin(a))
+print (math.sin(b))
+print (math.cos(a))
+print (math.cos(b))
+c = int(str(a) + str(b))
+print (c)
